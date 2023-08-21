@@ -1,0 +1,35 @@
+* {
+    margin: 0;
+    margin: 0;
+}
+
+
+.topHeaderDiv {
+    display: flex;
+    justify-content: space-between;
+}
+
+.topHeader .topHeaderDiv .topHeaderPolarBear {
+    color: rgba(255, 108, 22, 0.929);
+    margin: 5px;
+    padding: 6px;
+    font-size: 22px;
+}
+
+.topHeader .topHeaderDiv .topHeaderDivNav a {
+    color: grey;
+    margin: 5px;
+    padding: 10px;
+    font-size: 1pc;
+    
+
+}
+
+main .topMainDiv {
+    background-image: url(image/carImage.jpg);
+    margin-left: 2%;
+    margin-right: 2%;
+    width: 96%;
+    height: 370.9px; ;
+
+}
