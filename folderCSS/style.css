@@ -3,6 +3,11 @@
     padding: 0;
 }
 
+
+/* main tag 1 of body */
+
+
+
 .topsectionCSS {
     background-color: rgba(0, 0, 0, 0.337);
     width: 100%;
@@ -20,4 +25,22 @@
 
 .centerCSS {
     text-align: center;
+}
+
+
+
+
+
+
+
+
+
+/* ABOUT ME */
+
+
+
+.about-me-box {
+    padding-left: 5%;
+    padding: 5%;
+
 }
